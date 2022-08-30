@@ -9,7 +9,7 @@ import UIKit
 
 class CollectionViewCell: UICollectionViewCell {
     
-    var questionNumberArray = [24,24,24,24,04]
+    var questionNumberArray = [20,20,20,20,20]
     
     
     static let identifier = "CollectionViewCell"
